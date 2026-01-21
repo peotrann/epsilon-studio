@@ -56,6 +56,17 @@ export const VIDEOS: VideoConfig[] = [
 ];
 
 export const DOCUMENTS: Document[] = [
-  { id: '1', title: 'Giáo trình Toán rời rạc Tập 1', filePath: 'docs/CauTrucRoiRac_1.pdf', fileType: 'PDF' },
-  { id: '2', title: 'Giáo trình Toán rời rạc Tập 2', filePath: 'docs/CauTrucRoiRac_2.pdf', fileType: 'PDF' },
+  {
+    id: '1',
+    title: 'Giáo trình Toán rời rạc Tập 1',
+    filePath: 'docs/CauTrucRoiRac_1.pdf',
+    fileType: 'PDF',
+  },
+  {
+    id: '2',
+    title: 'Giáo trình Toán rời rạc Tập 2',
+    filePath: 'docs/CauTrucRoiRac_2.pdf',
+    fileType: 'PDF',
+  },
 ];
+
